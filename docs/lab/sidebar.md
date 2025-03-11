@@ -1,6 +1,7 @@
 - [🔎 Overview](README.md)
 - [🏎️ Getting started!](10-getting-started.md)
-- [Lab Part 1](lab-part1-overview.md)
+- [Lab Part 1 Overview](lab-part1-overview.md)
+- [Lab Part 1 Steps](lab-part1-steps.md)
 - [🏁 Conclusion](90-conclusion)
 - **Learn more**
 - [Lab Sign in](https://ibm.biz/txc-XXX-invite)
