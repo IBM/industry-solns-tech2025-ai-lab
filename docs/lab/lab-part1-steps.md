@@ -20,4 +20,4 @@ _________
 10.	You will now need to run each cell in the notebook. **To run a cell:**
     - Select the cell first so that you see a blue box around it.
     - Select the **play button** in the upper-left hand corner. This will run the selected cell and then advance to the next cell. 
-    - When a cell is running it will have an asterisk **[*]** next to it, indicating it is still running. When completed  bracketed number will appear to the right of the cell indicating the order in which the cells have been executed. For example: **[1]**
+    - When a cell is running it will have an asterisk [*] next to it, indicating it is still running. When completed  bracketed number will appear to the right of the cell indicating the order in which the cells have been executed. For example: **[1]**
