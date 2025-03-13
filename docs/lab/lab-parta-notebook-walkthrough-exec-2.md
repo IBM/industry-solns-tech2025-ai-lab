@@ -4,7 +4,7 @@ UPDATE INTRO
 
 -----
 
-**Cell 9: Add tool (function) that determines the interest rate for a customer**
+**Cell 9: Add tool that determines the interest rate for a customer**
 
 **No action required**.
 
