@@ -1,4 +1,4 @@
-# Notebook Walk Through Exercise 1
+# Notebook Walkthrough Exercise 1
 
 In this section, you will explore the existing capabilities of the AI agent designed to assist in assessing loan risks. To get started, you will run the provided Python notebook, which will allow you to familiarize yourself with the available tools.
 
@@ -91,6 +91,7 @@ In this cell, reviews the response from the AI agent to the question asked in th
 
 
 Note: You can rerun cells 7 and 8 again and ask other questions. 
+
 -----
 
 Proceed to the next section for Exercise 2 of Lab A
