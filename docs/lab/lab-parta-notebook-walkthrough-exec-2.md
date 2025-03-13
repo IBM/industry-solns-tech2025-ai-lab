@@ -62,4 +62,4 @@ In this step, the agent’s operational flow is updated to include the newly add
 
 **Explanation**: <br>
 
-The response will incorporate the new functionality for determining interest rates, alongside the risk analysis. Review the output to confirm that the AI has correctly integrated the new tool and provided a logical answer based on the customer’s risk level. This will validate that the system is working as expected after the updates.
+The response will incorporate the new functionality for determining interest rates, alongside the risk analysis. Review the output to confirm that the AI has correctly integrated the new tool and provided a logical answer based on the customer’s risk level.
