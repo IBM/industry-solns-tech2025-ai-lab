@@ -31,14 +31,15 @@ _________
         * On Mac: **Command (⌘) key + C** to copy the key
         * On Windows **Ctrl + C** to copy the key
 
-#### Overview of Notebook UI
+#### Helpful Tips for Running a Jupyter Notebook
 
-1. Inside the notebook, select **Edit** (the pencil) in the upper right-hand corner
-2. Now that you are in Edit mode you can run the notebook.
-3. Paste the API key you have copied:
-    * On Mac: **Command (⌘) key + V** to paste the key
-    * On Windows **Ctrl + V** to paste the key
-4. You will now need to run each cell in the notebook. **To run a cell:**
-    - Select the cell first so that you see a blue box around it.
-    - Select the **play button** in the upper-left hand corner. This will run the selected cell and then advance to the next cell. 
-    - When a cell is running it will have an asterisk [*] next to it, indicating it is still running. When completed  bracketed number will appear to the right of the cell indicating the order in which the cells have been executed. For example: **[1]**
+1. **Running Cells**: <br>
+- To execute a cell, click on the cell and press **Shift + Enter** (or just click the "Run" button in the toolbar).
+- Make sure to run all cells in order from top to bottom to ensure that variables and functions are properly defined in the right sequence.
+- When a cell is running it will have an asterisk [*] next to it, indicating it is still running. When completed  bracketed number will appear to the right of the cell indicating the order in which the cells have been executed. For example: **[1]**
+
+2. **Kernel**: <br>
+- If you encounter errors or if a cell isn’t executing, the kernel (the engine that runs your code) might have stopped or encountered an issue. You can restart the kernel by selecting **Kernel** > **Restart** from the menu. This will clear all variables and reset the environment.
+
+3. **Markdown Cells**: <br>
+- Markdown cells (those not containing code) are used for explanations, comments, or instructions. Use these to add notes to help you understand what each part of the notebook is doing.
