@@ -11,6 +11,7 @@ Each cell in the notebook needs to be executed in sequence. Below, you will find
 **No action required**.
 
 **Explanation**: <br>
+
 This cell imports the necessary libraries that the notebook will use. These libraries, such as `langgraph` and `langchain`, help in managing the AI agent’s logic, integrating tools, and processing data. Observe that these libraries are initialized and available for use throughout the rest of the notebook.
 
 -----
@@ -20,6 +21,7 @@ This cell imports the necessary libraries that the notebook will use. These libr
 **Action required**: Paste in the API key when prompted.
 
 **Explanation**: <br>
+
 This cell sets up the necessary credentials. You will need to paste their API key that you copied earlier.
 
 -----
@@ -29,6 +31,7 @@ This cell sets up the necessary credentials. You will need to paste their API ke
 **No action required**.  
 
 **Explanation**: <br>
+
 This cell defines the tools that the AI agent will use to gather information. Specifically:
 - `get_customer_info()`: A mock API call that simulates retrieving customer data such as credit scores and account status.
 - `get_credit_score()` and `get_account_status()`: tools that retrieve specific pieces of customer information using the `get_customer_info()` tool.
@@ -43,6 +46,7 @@ The AI agent uses these tools to respond to questions.
 **No action required**.
 
 **Explanation**: <br>
+
 This cell configures the large language model (LLM) that powers the AI agent. The chosen model is `mistral-large`, which will process natural language input (such as questions) and produce responses.
 
 -----
@@ -52,6 +56,7 @@ This cell configures the large language model (LLM) that powers the AI agent. Th
 **No action required**.  
 
 **Explanation**: <br>
+
  In this cell, LangGraph is used to create the flow and structure for the AI agent. LangGraph manages the state and runtime of the system, ensuring the AI can properly sequence tool usage and respond to queries.
 
 -----
@@ -61,6 +66,7 @@ This cell configures the large language model (LLM) that powers the AI agent. Th
 **No action required**.  
 
 **Explanation**: <br>
+
 This cell provides a visual representation of the AI agent, showing how it interacts with the various tools defined earlier.
 
 -----
@@ -70,6 +76,7 @@ This cell provides a visual representation of the AI agent, showing how it inter
 **Action required**: Interact with the AI agent by posing a question when prompted. Find example questions in the notebook.
 
 **Explanation**: <br>
+
  In this cell, you will test the AI’s functionality by asking natural language questions. The AI will process the question, determine the necessary tools to use, and provide a response based on the customer’s data. 
 
 -----
@@ -79,10 +86,11 @@ This cell provides a visual representation of the AI agent, showing how it inter
 **No action required**.  
 
 **Explanation**: <br> 
+
 In this cell, reviews the response from the AI agent to the question asked in the previous step. The response will be based on the data and risk rules implemented in the tools. Observe the accuracy and relevance of the response, confirming that the system correctly interpreted the query and used the appropriate tools to generate an answer.
 
 
-**Note:** You can rerun cells 7 and 8 again and ask other questions. 
+Note: You can rerun cells 7 and 8 again and ask other questions. 
 -----
 
 Proceed to the next section for Exercise 2 of Lab A
