@@ -1,6 +1,6 @@
 # Notebook Walkthrough Exercise 2
 
-UPDATE INTRO 
+Until now, the agent has had a tool that determines a customer's risk level (low, medium, or high). However it does not have a specific tool to calculate a specific interest rate. In this exercise, we will add a new tool that provides an interest based on the customer's risk level. 
 
 -----
 
