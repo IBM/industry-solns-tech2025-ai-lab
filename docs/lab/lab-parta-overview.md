@@ -1,4 +1,4 @@
-# Lab Part 1 Overview
+# Lab Part A Overview
 
 **Learning Outcomes:**
 

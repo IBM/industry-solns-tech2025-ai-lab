@@ -1,5 +1,5 @@
 
-# Lab Part 1: Log in to IBM Cloud
+# Lab Part A: Log in to IBM Cloud
 
 We will first need to log in to IBM Cloud so we can access the lab environment. 
 _________
