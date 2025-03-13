@@ -20,7 +20,7 @@ _________
     * Select **Local file** <br>
     * Upload the notebook you downloaded from Github. 
 
-#### Retrieve and Enter API Key in the Notebook
+#### Retrieve the API Key for the Notebook
 
 1. At your project level under the asset list, you will see an **Parameter set** named **UPDATE WITH NAME**
 2. Open the parameter set in a new window. Keep this window open until you have added the API key to the notebook. To open in a new window:
@@ -36,7 +36,7 @@ _________
 1. **Running Cells**: <br>
 - To execute a cell, click on the cell and press **Shift + Enter** (or just click the "Run" button in the toolbar).
 - Make sure to run all cells in order from top to bottom to ensure that variables and functions are properly defined in the right sequence.
-- When a cell is running it will have an asterisk [*] next to it, indicating it is still running. When completed  bracketed number will appear to the right of the cell indicating the order in which the cells have been executed. For example: **[1]**
+- When a cell is running it will have an asterisk [*] next to it, indicating it is still running. When completed  bracketed number will appear to the right of the cell indicating the order in which the cells have been executed. For example: [1]
 
 2. **Kernel**: <br>
 - If you encounter errors or if a cell isn’t executing, the kernel (the engine that runs your code) might have stopped or encountered an issue. You can restart the kernel by selecting **Kernel** > **Restart** from the menu. This will clear all variables and reset the environment.
