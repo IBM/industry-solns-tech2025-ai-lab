@@ -4,7 +4,7 @@
 - [Lab Part A: Concepts](lab-parta-concepts.md)
 - [Lab Part A: Log in to IBM Cloud](lab-parta-login.md)
 - [Lab Part A: Prepare and Overview of Notebook](lab-parta-prep-overview-notebook.md)
-- [Lab Part A: Notebook Walk Through](lab-parta-notebook-walkthrough.md)
+- [Lab Part A: Notebook Walk Through Exercise 1](lab-parta-notebook-walkthrough-exec-1.md)
 - [🏁 Conclusion](conclusion.md)
 - **Learn more**
 - [Lab Sign in](https://ibm.biz/txc-XXX-invite)
