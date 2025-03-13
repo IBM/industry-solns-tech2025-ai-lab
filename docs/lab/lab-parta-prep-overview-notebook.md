@@ -1,4 +1,4 @@
-# Lab Part 1: Prepare Notebook and Notebook Overview
+# Lab Part A: Prepare Notebook and Notebook Overview
 
 In this section, we will begin by uploading the Python notebook and preparing it for execution, which includes adding an API key to the notebook. Afterwards, we will walk through the notebook's environment and demonstrate how to run the notebook effectively. 
 _________
