@@ -6,6 +6,10 @@
 - [Lab Part A: Prepare and Overview of Notebook](lab-parta-prep-overview-notebook.md)
 - [Lab Part A: Notebook Walkthrough Exercise 1](lab-parta-notebook-walkthrough-exec-1.md)
 - [Lab Part A: Notebook Walkthrough Exercise 2](lab-parta-notebook-walkthrough-exec-2.md)
+- [Lab Part B: Overview](lab-partb-overview.md)
+- [Lab Part B: Concepts](lab-partb-concepts.md)
+- [Lab Part B: Prepare and Overview of Notebook](lab-partb-prep-overview-notebook.md)
+- [Lab Part B: Notebook Walkthrough](lab-partb-notebook-walkthrough.md)
 - [🏁 Conclusion](conclusion.md)
 - **Learn more**
 - [Lab Sign in](https://ibm.biz/txc-XXX-invite)
