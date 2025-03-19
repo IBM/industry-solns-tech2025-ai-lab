@@ -82,8 +82,6 @@ In this cell, we review the contents of the document that was just read in from 
 
 **Cell 7: Chat with the documents**
 
-**No action required**.
-
 **Action required**: Review the document's content and ask the AI agent questions about it. <br>
 
 **Explanation**: <br>
@@ -99,8 +97,6 @@ questions, get summaries, or even use the document as input for other tasks.
 **Explanation**: <br>
 In this cell, we define the URL of the base model server that is being served on a RHEL AI VSI using 
 InstructLab. We then use the function defined in Cell 3 to initiate a conversation with the base model.
-
------
 
 ## **Exercise 3**
 
