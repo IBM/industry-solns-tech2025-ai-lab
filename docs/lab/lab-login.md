@@ -1,4 +1,4 @@
-# Log in to IBM Cloud
+# Login to IBM Cloud
 
 We will first need to log in to IBM Cloud so we can access the lab environment. 
 _________
