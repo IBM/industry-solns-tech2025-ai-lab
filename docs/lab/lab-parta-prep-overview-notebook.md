@@ -7,24 +7,24 @@ _________
 
 1. On the IBM Cloud Console, open the Navigation menu to the right, select **Resource list**
 
-![alt text](../images/select-resource-list.png)
+    ![alt text](../images/select-resource-list.png)
 
 2. Click the dropdown menu for **AI / Machine Learning**
 3. Select the runtime instance, **tech25-lab-ilabwx-00x-watson-runtime** where 00x is your group number.
 
-![alt text](../images/runtime-select.png)
+    ![alt text](../images/runtime-select.png)
 
 4. Select the down arrow next to **Launch in** and select **IBM watsonx**
 
-![alt text](../images/watsonx-select.png)
+    ![alt text](../images/watsonx-select.png)
 
 5. Open the Navigation menu to the right, and select **View all projects**
 
-![alt text](../images/view-all-projects.png)
+    ![alt text](../images/view-all-projects.png)
 
 6. Find your project and select it 
 
-![alt text](../images/project-selection.png)
+    ![alt text](../images/project-selection.png)
 
 7. Download the notebook
     * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-ai-agent-loan-risk-tech2025-lab-a.ipynb)
@@ -50,7 +50,7 @@ _________
 
 1. At your project level under the asset list, you will see an **Parameter set** named **UPDATE WITH NAME**
 
-![alt text](../images/select-param-set.png)
+    ![alt text](../images/select-param-set.png)
 
 2. Open the parameter set in a new window. Keep this window open until you have added the API key to the notebook. To open in a new window:
     * On Mac: hold down the Command (⌘) key + click the parameter set name.
