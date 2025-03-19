@@ -43,15 +43,31 @@ statements. The model will process our input and respond accordingly.
 
 ## **Exercise 1B**
 
-## CODE SNIPPET INSTRUCTIONS NEED TO BE ADDED
 
 **Cell 5: Insert code snippet to read data**
 
-**No action required**.
+**Action required**: Follow the below steps to insert a code snippet to read data. 
 
 **Explanation**: <br>
 This cell reads in some sample data from a file stored in IBM Cloud Object Storage. This data is used as an 
 external asset for the document summarization use case later on.
+
+**Steps to Insert code snippet to read data**
+
+1. Download a file from this [Github folder](https://github.com/IBM/industry-solns-tech2025-ai-lab/tree/main/datasets/SpringNature/samples)
+    - Select one asset to download from the folder.
+    - Select the triple dot to download the asset.
+    - Navigate back to the notebook.
+2. Click on **Upload asset to project**
+3. Upload the file you downloaded from GitHub
+4. Click on **Code Snippets**
+5. Click on **Read data**
+6. Click on **Select data from project**
+7. Select **data asset**
+8. Select the file you uploaded 
+9. Click **Select**
+10. Make sure **Load as** has **StreamingBody object** selected 
+11. Click **Insert code to cell** 
 
 -----
 
