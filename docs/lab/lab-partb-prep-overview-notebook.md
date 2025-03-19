@@ -6,11 +6,26 @@ _________
 #### Navigate to Project and Upload Notebook
 
 1. On the IBM Cloud Console, open the Navigation menu to the right, select **Resource list**
-2. Click the dropdown menu for **AI / Machine Learning** under watsonx.ai 
+
+    ![alt text](../images/select-resource-list.png)
+
+2. Click the dropdown menu for **AI / Machine Learning**
 3. Select the runtime instance, **tech25-lab-ilabwx-00x-watson-runtime** where 00x is your group number.
+
+    ![alt text](../images/runtime-select.png)
+
 4. Select the down arrow next to **Launch in** and select **IBM watsonx**
+
+    ![alt text](../images/watsonx-select.png)
+
 5. Open the Navigation menu to the right, and select **View all projects**
+
+    ![alt text](../images/view-all-projects.png)
+
 6. Find your project and select it 
+
+    ![alt text](../images/project-selection.png)
+
 7. Download the notebook
     * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-rhelai-instructlab-chatbot.ipynb)
     * You should now see a preview of the notebook on Github
@@ -18,8 +33,17 @@ _________
     * Select **Download**
 8. Upload the notebook <br>
     * Select **New asset** in the upper right-hand corner. <br>
+
+    ![alt text](../images/new-asset.png)
+
     * Scroll to the **Work with models** section and select **Work with data models in Python or R notebooks** <br>
+
+    ![alt text](../images/notebook-search.png)
+
     * Select **Local file** <br>
+
+    ![alt text](../images/select-local-file.png)
+
     * Upload the notebook you downloaded from Github. 
 
 #### Helpful Tips for Running a Jupyter Notebook
