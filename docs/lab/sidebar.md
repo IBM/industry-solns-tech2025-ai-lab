@@ -11,6 +11,4 @@
 - [Lab Part B: Notebook Walkthrough](lab-partb-notebook-walkthrough.md)
 - [🏁 Conclusion](conclusion.md)
 - **Learn more**
-- [Lab Sign in](https://ibm.biz/txc-XXX-invite)
-- [Console](https://cloud.ibm.com/)
-- [Documentation](https://cloud.ibm.com/docs/)
+- [IBM Cloud Documentation](https://cloud.ibm.com/docs/)
