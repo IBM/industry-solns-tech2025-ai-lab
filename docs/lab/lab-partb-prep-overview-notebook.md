@@ -12,7 +12,7 @@ _________
 5. Open the Navigation menu to the right, and select **View all projects**
 6. Find your project and select it 
 7. Download the notebook
-    * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-ai-agent-loan-risk-tech2025-lab-a.ipynb)
+    * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-rhelai-instructlab-chatbot.ipynb)
     * You should now see a preview of the notebook on Github
     * Select the triple dot on the upper right hand corner
     * Select **Download**
