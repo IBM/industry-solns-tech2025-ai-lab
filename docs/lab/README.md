@@ -1,5 +1,7 @@
-# Is bigger really better? Innovating with GenAI on IBM Cloud
+# Lab Overview
 
-This is my lab
+In this lab guide, we will explore two distinct hands-on labs that focus on leveraging artificial intelligence (AI) in different applications: risk evaluation in a loan scenario and interactive chatbot development. 
 
-⇨ [It's time to jump right in!](10-getting-started.md)
+**Lab A - Loan Risk AI Agent** focuses on building an AI agent that assesses the risks and interest rates for bank loans. You will be guided through setting up the AI agent using a Python notebook, LangGraph, and large language models (LLMs). By using various tools, the agent will evaluate customer credit scores and account statuses, then generate answers to questions regarding loan risk and interest rates. The lab involves configuring the system, visualizing the agent's graph, and testing the agent with real-time queries, with a specific focus on understanding the sequence of actions the AI takes to deliver its responses.
+
+**Lab B - RHEL AI & InstructLab** introduces you to creating a chatbot that communicates with an AI model served on a RHEL AI VSI instance. This lab includes exercises where you will chat with a model, perform document summarization tasks, and analyze the limitations of a base model like Mistral7b. Furthermore, you will have the opportunity to explore a fine-tuned a model using synthetic data and see how it affects the chatbot's performance. The exercises include setting up the chatbot, using external data assets for processing, and reviewing the chat interactions with both base and fine-tuned models.
