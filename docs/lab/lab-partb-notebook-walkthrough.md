@@ -64,7 +64,7 @@ In this cell, we review the contents of the document that was just read in from 
 
 -----
 
-**Cell 6-a: Chat with the documents**
+**Cell 7: Chat with the documents**
 
 **No action required**.
 
@@ -76,9 +76,9 @@ questions, get summaries, or even use the document as input for other tasks.
 
 ## **Exercise 2**
 
-**Cell 7: Set the endpoint for VSI instance serving base model and chat with the model**
+**Cell 8: Set the endpoint for VSI instance serving base model and chat with the model**
 
-**No action required**.
+**Action required**: Chat with the base model with the same prompts to learn more about IBM Cloud for Financial Services. The base model is not trained on IBM Cloud for financial services and starts to hallucinate. Try out some of the sample prompts provided in ine notebook.
 
 **Explanation**: <br>
 In this cell, we define the URL of the base model server that is being served on a RHEL AI VSI using 
@@ -88,9 +88,9 @@ InstructLab. We then use the function defined in Cell 3 to initiate a conversati
 
 ## **Exercise 3**
 
-**Cell 8: Chat with fine-tuned model**
+**Cell 9: Chat with fine-tuned model**
 
-**Action required**: Chat with the fine-tuned model with the same prompts to learn more about IBM Cloud for Financial Services.
+**Action required**: Chat with the fine-tuned model with the same prompts from cell 8 to learn more about IBM Cloud for Financial Services.
 
 **Explanation**: <br>
 In this cell, we define the URL of a fine-tuned model that has been trained on synthetic generated data 
