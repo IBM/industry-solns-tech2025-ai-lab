@@ -16,10 +16,10 @@ In this lab, you will work with a simple chatbot to interact with a model served
 
 **Your Task**
 
-- **Exercise 1.a** <br> 
+- **Exercise 1 A** <br> 
 Chat with a Mistral-7b model served on a RHEL AI VSI instance.
 
-- **Exercise 1.b** <br> 
+- **Exercise 1 B** <br> 
 Summarize documents using external assets.
 
 - **Exercise 2** <br>
