@@ -1,4 +1,4 @@
-# Lab Part A: Prepare Notebook and Notebook Overview
+# Lab Part B: Prepare Notebook and Notebook Overview
 
 In this section, we will begin by uploading the Python notebook and preparing it for execution. Afterwards, we will walk through the notebook's environment and demonstrate how to run the notebook effectively. 
 _________
