@@ -33,4 +33,4 @@ _________
 - If you encounter errors or if a cell isn’t executing, the kernel (the engine that runs your code) might have stopped or encountered an issue. You can restart the kernel by selecting **Kernel** > **Restart** from the menu. This will clear all variables and reset the environment.
 
 3. **Markdown Cells**: <br>
-- Markdown cells (those not containing code) are used for explanations, comments, or instructions. Use these to add notes to help you understand what each part of the notebook is doing.
+- Markdown cells (those not containing code) are used for explanations, comments, or instructions.
