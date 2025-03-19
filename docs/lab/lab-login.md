@@ -7,6 +7,8 @@ _________
 2. Log in with provided credentials 
 3. When logged in, make sure you are on the right account **tech-25-ai-lab**
 
+![alt text](../images/right-account.png)
+
 #### Troubleshooting
 
 1. **Check your username and password**:
