@@ -8,7 +8,7 @@ _________
 1. On the IBM Cloud Console, open the Navigation menu to the right, select **Resource list**
 2. Click the dropdown menu for **AI / Machine Learning** under watsonx.ai 
 3. Select the runtime instance, **tech25-lab-ilabwx-00x-watson-runtime** where 00x is your group number.
-4. Select the drown arrow next to **Launch in** and select **IBM watsonx**
+4. Select the down arrow next to **Launch in** and select **IBM watsonx**
 5. Open the Navigation menu to the right, and select **View all projects**
 6. Find your project and select it 
 7. Download the notebook
