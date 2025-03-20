@@ -25,3 +25,5 @@ In this cell, we define the URL of a fine-tuned model that has been trained on s
 (SGD). We then use the function defined in Cell 3 to initiate a conversation with this fine-tuned model. The 
 goal is to highlight some limitations of the base mistral7b model by comparing its performance to the 
 fine-tuned one.
+
+View the `qna.yaml` used to train the model on IBM Cloud for Financial Services [here](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/taxonomy/knowledge/technology/fscloud/qna.yaml).
