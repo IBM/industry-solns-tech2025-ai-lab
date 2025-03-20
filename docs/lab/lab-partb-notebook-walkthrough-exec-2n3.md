@@ -1,8 +1,12 @@
+# Notebook Walkthrough Exercise 2 and 3
 
+In this section, you will continue to experiment with the power of AI models, you'll explore the limitations of the base model by examining a base models lack of knowledge about IBM Cloud for Financial Services. 
+
+Next, you'll work with a fine-tuned model that has been trained on synthetic generated data (SGD), allowing it to answer questions about IBM Cloud for Financial Services.
 
 --------
 
-## **Exercise 2**
+## Exercise 2
 
 **Cell 8: Set the endpoint for VSI instance serving base model and chat with the model**
 
@@ -12,7 +16,7 @@
 In this cell, we define the URL of the base model server that is being served on a RHEL AI VSI using 
 InstructLab. We then use the function defined in Cell 3 to initiate a conversation with the base model.
 
-## **Exercise 3**
+## Exercise 3
 
 **Cell 9: Chat with fine-tuned model**
 
