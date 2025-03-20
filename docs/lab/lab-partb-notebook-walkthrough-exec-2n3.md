@@ -4,8 +4,6 @@ In this section, you will continue to experiment with the power of AI models, yo
 
 Next, you'll work with a fine-tuned model that has been trained on synthetic generated data (SGD), allowing it to answer questions about IBM Cloud for Financial Services.
 
---------
-
 ## Exercise 2
 
 **Cell 8: Set the endpoint for VSI instance serving base model and chat with the model**
