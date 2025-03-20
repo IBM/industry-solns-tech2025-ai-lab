@@ -1,12 +1,9 @@
 # Notebook Walkthrough Exercise 1
 
-In this section, you'll dive into the world of conversational AI by exploring two fundamental skills: interacting with large 
-language models and content analysis.
+In this section, we will work through exercise 1A and 1B.
 
 First, in Exercise 1A, you'll interact with a Mistral-7b model that's been set up on a Red Hat Enterprise Linux (RHEL) AI Virtual 
-Server Instance (VSI). This provides a stable and secure environment for exploring the capabilities of the LLM.
-
- Next, you'll learn how to use external assets to summarize documents (Exercise 1B). 
+Server Instance (VSI). This provides a stable and secure environment for exploring the capabilities of the LLM. Next, you'll learn how to use external assets to summarize documents (Exercise 1B). 
 
 -----
 
