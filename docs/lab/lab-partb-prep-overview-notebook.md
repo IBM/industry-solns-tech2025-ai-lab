@@ -36,7 +36,7 @@ _________
 
     ![alt text](../images/new-asset.png)
 
-    * Scroll to the **Work with models** section and select **Work with data models in Python or R notebooks** <br>
+    * Search for **notebook** and select **Work with data models in Python or R notebooks** <br>
 
     ![alt text](../images/notebook-search.png)
 
