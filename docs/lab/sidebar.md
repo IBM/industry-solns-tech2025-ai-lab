@@ -9,7 +9,9 @@
 - [Lab Part B: Concepts](lab-partb-concepts.md)
 - [Lab Part B: Prepare and Overview of Notebook](lab-partb-prep-overview-notebook.md)
 - [Lab Part B: Notebook Walkthrough Exercise 1](lab-partb-notebook-walkthrough-exec-1.md)
+- [Lab Part B: InstructLab: Taxonomy / Synthetic Data Generation](lab-partb-tax-sdg.md)
 - [Lab Part B: Notebook Walkthrough Exercise 2-3](lab-partb-notebook-walkthrough-exec-2n3.md)
 - [🏁 Conclusion](conclusion.md)
-- **Learn more**
+- **Additional Resources**
+- [FAQ and Troubleshooting](faq-troubleshoot.md)
 - [IBM Cloud Documentation](https://cloud.ibm.com/docs/)
