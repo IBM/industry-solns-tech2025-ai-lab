@@ -1,0 +1,232 @@
+version: 3
+document_outline: IBM Cloud for Financial Services
+created_by: IBM Cloud CTO
+domain: fscloud
+seed_examples:
+  - context: |
+      IBM Cloud for Financial Services is a first-of-its-kind cloud, designed to
+      protect even most sensitive data and AI workloads. With built-in security
+      and controls informed by the industry, IBM Cloud for Financial Services
+      can help optimize infrastructure and demonstrate compliance.  IBM Cloud
+      for Financial Services is designed to build trust and enable a transparent
+      public cloud ecosystem with the features for security, compliance, and
+      resiliency that financial institutions require.
+    questions_and_answers:
+      - question: |
+          What type of workloads are addressed by IBM Cloud for Financial
+          Services?
+        answer: |
+          IBM Cloud for financial services is designed to protect sensitive data
+          and AI workloads with aid of built-in security and controls.
+      - question: What does IBM FS Cloud stand for?
+        answer: |
+          IBM FS Cloud or IBM FSCloud stands for IBM Cloud for Financial
+          Services.
+      - question: How does IBM FSCloud build trust and enable transparency?
+        answer: |
+          It enables a transparent public cloud ecosystem with features for
+          security, compliance and resiliency that financial institutions
+          require.
+  - context: |
+      Financial institutions can confidently host their mission-critical
+      applications in the cloud and transact quickly and efficiently.
+      With a large partner ecosystem of independent software vendors (ISVs),
+      Software as a Service (SaaS), and fintech partners, IBM Cloud for
+      Financial Services offers a new generation of cloud for the enterprise.
+      Financial institutions can now deploy on public cloud to enable innovation
+      and deliver new outstanding customer experiences, while managing stringent
+      industry regulations for sensitive data and complex workloads.
+    questions_and_answers:
+      - question: |
+          Can Independent Software Vendor (ISV) products run on IBM FS Cloud?
+        answer: |
+          IBM FS Cloud supports a large ecosystem of ISVs, SaaS and fintech
+          partners allowing institutions to use FS Cloud validated products and
+          services on public IBM Cloud.
+      - question: |
+          What does it mean for a partner offering to be IBM Cloud for financial
+          services validated?
+        answer: |
+          IBM Cloud for Financial Services Validated designates that an IBM
+          Cloud service or ecosystem partner service has evidenced compliance to
+          the controls of the IBM Cloud Framework for Financial Services and can
+          be used to build solutions that might themselves be validated.
+      - question: Where can i find the list of FS Cloud validated ISV offerings
+        answer: |
+          The list of FS Validated ISV offerings are available in IBM Cloud docs
+          home.
+      - question: |
+          Should I only use IBM or third-party managed services that are IBM
+          Cloud for Financial Services Validated?
+        answer: |
+          Generally speaking, you should strive to use only services which are
+          Financial Services Validated in your solutions. However, depending on
+          your circumstance there may be exceptions. See the best practices for
+          more details and potential exceptions.
+  - context: |
+      IBM Cloud Framework for Financial Services is designed to help address the
+      needs of financial services institutions with regulatory compliance,
+      security, and resiliency during the initial deployment phase and with
+      ongoing operations. The framework also helps to simplify the ability of
+      financial institutions to transact with ecosystem partners who deliver
+      software or SaaS applications, and who meet the requirements of the
+      framework.
+      The IBM Cloud Framework for Financial Services consists of:
+      * A comprehensive set of control requirements designed to help address the
+      security requirements and regulatory compliance obligations of financial
+      institutions and cloud best practices. The cloud best practices include a
+      shared responsibility model across financial institutions, application
+      providers, and IBM Cloud.
+      * Detailed control-by-control guidance for implementation and supporting
+      evidence to help address the security and regulatory requirements of the
+      financial industry.
+      * Reference architectures designed to facilitate compliance with the
+      control requirements. In addition, resources are provided to deploy
+      infrastructure as code in order to automate deployment and configuration
+      of the reference architectures.
+      * Tools and IBM services, such as IBM Cloud® Security and Compliance
+      Center, to enable parties to efficiently and effectively monitor
+      compliance, remediate issues, and generate evidence of compliance.
+      * Ongoing governance of the framework documentation that considers new and
+      changing regulations, as well as bank and public cloud requirements.
+    questions_and_answers:
+      - question: |
+          What are the different aspects which form the IBM Cloud framework for
+          Financial Services?
+        answer: |
+          The framework includes a set of security and compliance control
+          requirements of financial industry, guidance in terms of documentation
+          and automation for implementing and gathering evidence to address
+          those requirements, reference architectures and automation to setup
+          complex solution environments as well as tols and services such as IBM
+          SCC to continously monitor and report on security and compliance
+          posture.
+      - question: |
+          What are the automation tools available to create environments based
+          on the reference architecture?
+        answer: |
+          The IBM Deployable Architectures or DA for short are Infrastructure as
+          Code resources and associated configuration which allow to
+          consistently and rapidly deploy environments conforming to the
+          reference architecture. They leverage terraform modules and ansible
+          scripts for automation.
+      - question: |
+          How does the framework handle the evolving regulatory framework.
+        answer: |
+          The governance of the framework continously considers new and changing
+          regulations and is enriched with input from all stakeholders in the
+          ecosystem.
+  - context: |
+      The technology-agnostic control requirements defined in the framework were
+      built by the industry for the industry. The framework contains 565 control
+      requirements that span 7 focus areas and 21 control families. The control
+      requirements were initially based on NIST 800-53 Rev 4 and have been
+      enhanced based on feedback from leading industry partners.
+      See IBM Cloud Framework for Financial Services - Control Requirements for
+      a complete description of all control requirements.
+      You should use the information in the framework if you are an application
+      provider (whether from a financial institution or ecosystem partner) who
+      wishes to meet the requirements or leverage the best practices of IBM
+      Cloud for Financial Services. However, the content has a different purpose
+      depending on whether you represent an application provider from an
+      ecosystem partner or an application provider within a financial
+      institution.
+    questions_and_answers:
+      - question: What is a consumer and what is an application provider?
+        answer: |
+          We refer to the entity that uses (consumes) the application as the
+          consumer and the entity that deploys (provides) the application as the
+          application provider. The application provider and consumer might be
+          the same when the organization providing the application also consumes
+          it (for example, a financial institution deploys an application for
+          internal use by others in their company). Or, they can be different
+          when a third-party ISV provides an application for a financial
+          institution to use. Application providers who are within financial
+          institutions are not beholden to the IBM Cloud Framework for Financial
+          Services control requirements.
+      - question: |
+          What are the control requirements defined in IBM Cloud for Financial
+          Services based on?
+        answer: |
+          The control requirements were initially based on NIST 800-53 Rev 4 and
+          have been enhanced based on feedback from leading industry partners.
+      - question: |
+           What are the 7 focus areas that the control requirements are
+           categorized into?
+        answer: |
+          The 7 focus areas which encompass the 21 control families are 1.
+          Focussed Risk Management and Compliance, 2. Advanced Data Protection,
+          3. Enhanced Authentication and Access Management, 4.  Automated
+          Workload and Application Protection, 5. Unified Infrastructure and
+          Security Resiliency, 6. Operational Excellence, 7. Active Monitoring
+          and Response.
+  - context: |
+      The reference architectures and associated guidance are intended to help
+      you meet the Financial Services Validation process performs assurance
+      activities to enable confidence in the implementation of the controls.
+      The overall security categorization of the data will guide the
+      functionality and assurance required from a cloud service being used to
+      protect the data. For example, while Hyper Protect Crypto Services and Key
+      Protect have received the same level of assurance, both being Financial
+      Services Validated, they each provide different security functionality.
+      They may be used to protect data with a different security categorization.
+      For a further discussion on the differences, read Data encryption at rest
+      in IBM Cloud for a comparison of functionality.  When it comes to
+      differences in assurance, there are multiple options for audit logging.
+      You can use Activity Tracker Event Routing, that's Financial Services
+      Validated, to forward logs to either IBM Cloud Object Storage or Event
+      Streams (Enterprise Plan) and then use a custom solution for an audit
+      event monitoring application. An alternative is to use Activity Tracker
+      hosted event search, that's not Financial Services Validated, but has
+      audit event monitoring built-in. The overall security categorization of
+      the data should guide whether you need the assurance provided with a
+      Financial Services Validated solution.
+
+      When you think about modifying a security solution because of a lower
+      security categorization, think about the two dimensions of functionality
+      and assurance.
+    questions_and_answers:
+      - question: |
+          Are the reference architectures comprehensive and useable as-is in all
+          cases?
+        answer: |
+          The reference architectures and associated guidance are intended to
+          help you meet the control requirements in the IBM Cloud Framework for
+          Financial Services. However, there is no one-size-fits-all approach
+          for designing solutions for regulated industries, and you have
+          latitude to make adjustments based on your situation. Ultimately, you
+          are responsible for your choices based on careful consideration of
+          organizational policies, data classification requirements,
+          vulnerability and threat information, applicable regulations,
+          compliance standards, and risk appetite.
+      - question: |
+          What can help you decide what controls need to be met by an
+          application?
+        answer: |
+          One approach to help you make decisions is to do a security
+          categorization of your workloads and data. The Standards for Security
+          Categorization of Federal Information and Information Systems (FIPS
+          199) provides a framework for security categorization of information
+          and information systems. The security categories it defines are based
+          on the potential impact on an organization should certain events occur
+          which jeopardize the information and information systems needed by the
+          organization to accomplish its assigned mission, protect its assets,
+          fulfill its legal responsibilities, maintain its day-to-day functions,
+          and protect individuals.
+      - question: What is functionality and assurance?
+        answer: |
+          Traditionally, security has been divided into two perspectives -
+          functionality and assurance. Functionality is the security
+          capabilities described by a policy, control framework, or security
+          target. Assurance is a set of activities that give confidence in the
+          implementation and operation of control requirements. The type of
+          assurance can vary depending on the scope of the control framework and
+          the amount of effort put into confirming the implementation and
+          operation of the control requirements. In this case, the Financial
+          Services Validation process performs assurance activities to enable
+          confidence in the implementation of the controls.
+document:
+  repo: https://github.ibm.com/dinakar/iltaxonomy/
+  commit: f7e74eee161a5ac9f79e715457021953ea9fd307
+  patterns:
+    - fscloudintro.md
