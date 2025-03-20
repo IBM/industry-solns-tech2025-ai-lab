@@ -1,4 +1,16 @@
-## **Exercise 1A**
+# Notebook Walkthrough Exercise 1
+
+In this section, you'll dive into the world of conversational AI by exploring two fundamental skills: interacting with large 
+language models and content analysis.
+
+First, in Exercise 1A, you'll interact with a Mistral-7b model that's been set up on a Red Hat Enterprise Linux (RHEL) AI Virtual 
+Server Instance (VSI). This provides a stable and secure environment for exploring the capabilities of the LLM.
+
+ Next, you'll learn how to use external assets to summarize documents (Exercise 1B). 
+
+-----
+
+## Exercise 1A
 
 **Cell 1: Install prerequisite libraries (requests, json, getpass)**
 
@@ -41,7 +53,7 @@ conversation. To exit the chat loop, type `exit` or `quit`. <br>
 In this cell, we test the AI's functionality by interacting with it using natural language questions or 
 statements. The model will process our input and respond accordingly.
 
-## **Exercise 1B**
+## Exercise 1B
 
 
 **Cell 5: Insert code snippet to read data**
@@ -90,3 +102,4 @@ questions, get summaries, or even use the document as input for other tasks.
 
 -----
 
+Proceed to the next section for Exercise 2 and 3 of Lab B.
