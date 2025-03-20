@@ -52,7 +52,7 @@ _________
 
     ![alt text](../images/selec-edit-notebook.png)
 
-11. To execute a cell, click on the cell and press **Shift + Enter** (or just click the "Run" button in the toolbar).
+11. To execute a cell, click the "Run" button in the toolbar.
     - Make sure to run all cells in order from top to bottom to ensure that variables and functions are properly defined in the right sequence.
     - When a cell is running it will have an asterisk [*] next to it, indicating it is still running. When completed bracketed number will appear to the right of the cell indicating the order in which the cells have been executed. For example: [1]
 
