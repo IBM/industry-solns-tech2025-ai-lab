@@ -92,11 +92,11 @@ external asset for the document summarization use case later on.
 
     ![alt text](../images/data-asset.png)
 
-8. Make sure **Load as** has **StreamingBody object** selected and click **Insert code to cell**.
+8. Make sure **Load as** as **StreamingBody object** selected and click **Insert code to cell**.
 
     ![alt text](../images/load-streamingbody.png)
 
-9. The code should now be inserted into the cell.
+9. The code should now be inserted into the cell. Click the **x** to close the window.
 
     ![alt text](../images/code-snippet-added.png)
 
