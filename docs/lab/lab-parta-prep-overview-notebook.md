@@ -30,7 +30,13 @@ _________
     * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-ai-agent-loan-risk-tech2025-lab-a.ipynb)
     * You should now see a preview of the notebook on Github
     * Select the triple dot on the upper right hand corner
+
+    ![alt text](../images/triple-dot.png)
+
     * Select **Download**
+
+    ![alt text](../images/download-notebook.png)
+
 8. Upload the notebook <br>
     * Select **New asset** in the upper right-hand corner. <br>
 
