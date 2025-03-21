@@ -62,20 +62,41 @@ external asset for the document summarization use case later on.
 
 **Steps to Insert code snippet to read data**
 
-1. Download a file from this [Github folder](https://github.com/IBM/industry-solns-tech2025-ai-lab/tree/main/datasets/SpringNature/samples)
+1. Download a file from this [Github folder](https://github.com/IBM/industry-solns-tech2025-ai-lab/tree/main/datasets/SpringNature/samples). It is recommended to open the link in a new tab.
     - Select one asset to download from the folder.
     - Select the triple dot to download the asset.
+
+    ![alt text](../images/download-dataset.png)
+
     - Navigate back to the notebook.
+
 2. Click on **Upload asset to project**
+
+    ![alt text](../images/new-asset.png)
+
 3. Upload the file you downloaded from GitHub
+
 4. Click on **Code Snippets**
+
+    ![alt text](../images/select-code-snippet.png)
+
 5. Click on **Read data**
+
+    ![alt text](../images/read-data.png)
+
 6. Click on **Select data from project**
-7. Select **data asset**
-8. Select the file you uploaded 
-9. Click **Select**
-10. Make sure **Load as** has **StreamingBody object** selected 
-11. Click **Insert code to cell** 
+
+    ![alt text](../images/select-data-from-project.png)
+
+7. Select **data asset** and click on the file you uploaded. Click **Select**
+
+    ![alt text](../images/data-asset.png)
+
+8. Make sure **Load as** has **StreamingBody object** selected.
+
+    ![alt text](../images/load-streamingbody.png) and click **Insert code to cell**.
+
+9. Click **Insert code to cell** 
 
 -----
 
