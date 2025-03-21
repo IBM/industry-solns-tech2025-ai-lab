@@ -76,7 +76,7 @@ external asset for the document summarization use case later on.
 
 3. Upload the file you downloaded from GitHub
 
-4. Click on **Code Snippets**
+4. Make sure the cell under step 5 is selected. Click on **Code Snippets**
 
     ![alt text](../images/select-code-snippet.png)
 
