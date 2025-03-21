@@ -54,6 +54,8 @@ _________
 
     * Upload the notebook you downloaded from Github. 
 
+    * Keep the default **runtime** configuration. 
+
 9. Select the notebook you just uploaded to open. 
 
 10. Select the pencil in the upper-right hand corner of the notebook to open in edit mode. This is so you can execute the notebook.
