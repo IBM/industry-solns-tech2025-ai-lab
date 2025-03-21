@@ -27,7 +27,9 @@ _________
     ![alt text](../images/project-selection.png)
 
 7. Download the notebook
-    * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-ai-agent-loan-risk-tech2025-lab-a.ipynb)
+    * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-ai-agent-loan-risk-tech2025-lab-a.ipynb), it is recommended to open in a new tab. <br>
+                - On Mac to open a new tab: hold down the **Command (⌘) key + click the link**. <br>
+                - On Windows to open a new tab: **Ctrl + click the link**.
     * You should now see a preview of the notebook on Github
     * Select the triple dot on the upper right hand corner
 
@@ -70,9 +72,8 @@ _________
 
     ![alt text](../images/select-param-set.png)
 
-2. Open the parameter set in a new window. Keep this window open until you have added the API key to the notebook. To open in a new window:
-    * On Mac: hold down the Command (⌘) key + click the parameter set name.
-    * On Windows: Ctrl + click the parameter set name.
+2. Open the parameter set in a new tab. Keep this tab open until you have added the API key to the notebook.
+
 3. Copy the API key value under the **Default value** column. You will be pasting it in the next couple of steps. 
     * Highlight the keys value
         * On Mac: **Command (⌘) key + C** to copy the key
