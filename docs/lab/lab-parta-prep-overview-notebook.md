@@ -28,8 +28,8 @@ _________
 
 7. Download the notebook
     * Go to this [Github Link](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-ai-agent-loan-risk-tech2025-lab-a.ipynb), it is recommended to open in a new tab. <br>
-                - On Mac to open a new tab: hold down the **Command (⌘) key + click the link**. <br>
-                - On Windows to open a new tab: **Ctrl + click the link**.
+        - On Mac to open a new tab: hold down the **Command (⌘) key + click the link**. <br>
+        - On Windows to open a new tab: **Ctrl + click the link**.
     * You should now see a preview of the notebook on Github
     * Select the triple dot on the upper right hand corner
 
