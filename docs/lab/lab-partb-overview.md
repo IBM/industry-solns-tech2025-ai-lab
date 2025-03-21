@@ -10,14 +10,14 @@ In this lab, you will work with a simple chatbot to interact with a model served
 
 - You will practice loading external data into the chatbot and using it to form prompts for summarization.
 
-- You will identify and explore the limitations of the base Mistral-7b model in handling certain topics, such as IBM Cloud for Financial Services.
+- You will identify and explore the limitations of the base granite-3.1-8b-base model in handling certain topics, such as IBM Cloud for Financial Services.
 
 - You will interact with a fine-tuned model that has been trained on synthetic generated data and learn how to take advantage of its enhanced capabilities.
 
 **Your Task**
 
 - **Exercise 1 A** <br> 
-Chat with a Mistral-7b model served on a RHEL AI VSI instance.
+Chat with a granite-3.1-8b-base model served on a RHEL AI VSI instance.
 
 - **Exercise 1 B** <br> 
 Summarize documents using external assets.

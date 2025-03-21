@@ -2,7 +2,7 @@
 
 In this section, we will work through exercise 1A and 1B.
 
-First, in Exercise 1A, you'll interact with a Mistral-7b model that's been set up on a Red Hat Enterprise Linux (RHEL) AI VSI. This provides a stable and secure environment for exploring the capabilities of the LLM. Next, you'll learn how to use external assets to summarize documents, Exercise 1B. 
+First, in Exercise 1A, you'll interact with a granite-3.1-8b-base model that's been set up on a Red Hat Enterprise Linux (RHEL) AI VSI. This provides a stable and secure environment for exploring the capabilities of the LLM. Next, you'll learn how to use external assets to summarize documents, Exercise 1B. 
 
 -----
 
