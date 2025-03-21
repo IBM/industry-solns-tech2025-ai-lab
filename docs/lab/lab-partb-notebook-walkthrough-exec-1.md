@@ -96,7 +96,9 @@ external asset for the document summarization use case later on.
 
     ![alt text](../images/load-streamingbody.png) and click **Insert code to cell**.
 
-9. Click **Insert code to cell** 
+9. The code should now be inserted into the cell.
+
+    ![alt text](../images/code-snippet-added.png)
 
 -----
 
