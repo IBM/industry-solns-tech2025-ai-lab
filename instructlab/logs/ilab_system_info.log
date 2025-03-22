@@ -1,0 +1,82 @@
+ggml_cuda_init: GGML_CUDA_FORCE_MMQ:    no
+ggml_cuda_init: GGML_CUDA_FORCE_CUBLAS: no
+ggml_cuda_init: found 8 CUDA devices:
+  Device 0: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+  Device 1: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+  Device 2: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+  Device 3: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+  Device 4: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+  Device 5: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+  Device 6: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+  Device 7: NVIDIA H100 80GB HBM3, compute capability 9.0, VMM: yes
+Platform:
+  sys.version: 3.11.7 (main, Jan  8 2025, 00:00:00) [GCC 11.4.1 20231218 (Red Hat 11.4.1-3)]
+  sys.platform: linux
+  os.name: posix
+  platform.release: 5.14.0-427.50.1.el9_4.x86_64
+  platform.machine: x86_64
+  platform.node: prod-rhel-ai-training-client-h100-4
+  platform.python_version: 3.11.7
+  os-release.ID: rhel
+  os-release.VERSION_ID: 9.4
+  os-release.PRETTY_NAME: Red Hat Enterprise Linux 9.4 (Plow)
+  memory.total: 1763.83 GB
+  memory.available: 1743.17 GB
+  memory.used: 11.13 GB
+
+InstructLab:
+  instructlab.version: 0.23.2
+  instructlab-dolomite.version: 0.2.0
+  instructlab-eval.version: 0.5.1
+  instructlab-quantize.version: 0.1.0
+  instructlab-schema.version: 0.4.2
+  instructlab-sdg.version: 0.7.1
+  instructlab-training.version: 0.7.0
+
+Torch:
+  torch.version: 2.5.1
+  torch.backends.cpu.capability: AVX512
+  torch.version.cuda: 12.4
+  torch.version.hip: None
+  torch.cuda.available: True
+  torch.backends.cuda.is_built: True
+  torch.backends.mps.is_built: False
+  torch.backends.mps.is_available: False
+  torch.cuda.bf16: True
+  torch.cuda.current.device: 0
+  torch.cuda.0.name: NVIDIA H100 80GB HBM3
+  torch.cuda.0.free: 78.6 GB
+  torch.cuda.0.total: 79.1 GB
+  torch.cuda.0.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+  torch.cuda.1.name: NVIDIA H100 80GB HBM3
+  torch.cuda.1.free: 78.6 GB
+  torch.cuda.1.total: 79.1 GB
+  torch.cuda.1.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+  torch.cuda.2.name: NVIDIA H100 80GB HBM3
+  torch.cuda.2.free: 78.6 GB
+  torch.cuda.2.total: 79.1 GB
+  torch.cuda.2.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+  torch.cuda.3.name: NVIDIA H100 80GB HBM3
+  torch.cuda.3.free: 78.6 GB
+  torch.cuda.3.total: 79.1 GB
+  torch.cuda.3.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+  torch.cuda.4.name: NVIDIA H100 80GB HBM3
+  torch.cuda.4.free: 78.6 GB
+  torch.cuda.4.total: 79.1 GB
+  torch.cuda.4.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+  torch.cuda.5.name: NVIDIA H100 80GB HBM3
+  torch.cuda.5.free: 78.6 GB
+  torch.cuda.5.total: 79.1 GB
+  torch.cuda.5.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+  torch.cuda.6.name: NVIDIA H100 80GB HBM3
+  torch.cuda.6.free: 78.6 GB
+  torch.cuda.6.total: 79.1 GB
+  torch.cuda.6.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+  torch.cuda.7.name: NVIDIA H100 80GB HBM3
+  torch.cuda.7.free: 78.6 GB
+  torch.cuda.7.total: 79.1 GB
+  torch.cuda.7.capability: 9.0 (see https://developer.nvidia.com/cuda-gpus#compute)
+
+llama_cpp_python:
+  llama_cpp_python.version: 0.3.2
+  llama_cpp_python.supports_gpu_offload: True

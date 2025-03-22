@@ -1,0 +1,130 @@
+version: 3
+created_by: dj
+domain: fs-cloud
+seed_examples:
+  - context: |
+      IBM Cloud for Financial Services is a first-of-its-kind cloud, designed
+      to protect even your most sensitive data and AI workloads.  With built-in
+      security and controls informed by the industry, IBM Cloud for
+      Financial Services can help you optimize your infrastructure and
+      demonstrate compliance so you can focus on what matters most: delivering
+      value for your clients.
+    questions_and_answers:
+      - answer: |
+          IBM Cloud for Financial Services is a first-of-its-kind cloud,
+          designed to protect even your most sensitive data when deploying on the cloud.
+        question: |
+          What is IBM Cloud for Financial Services(FS Cloud) from IBM?
+      - answer: |
+          IBM Cloud for Financial Services is built from the ground up with security
+          and compliance as the focus.
+        question: |
+          What is the compliance posture for IBM CLoud for Financial services?
+      - answer: |
+           IBM Cloud for Financial Services can help you optimize your
+           infrastructure and demonstrate compliance so you can focus on
+           what matters most: delivering value for your clients while meeting the
+           stringest industry compliance.
+        question: |
+          Does IBM Cloud for Financial Services help with compliance?
+  - context: |
+      IBM Cloud for Financial Services is designed to build trust and enable
+      a transparent public cloud ecosystem with the features for security,
+      compliance, and resiliency that financial institutions require. Financial
+      institutions can confidently host their mission-critical applications in
+      the cloud and transact quickly and efficiently. With a large partner
+      ecosystem of independent software vendors (ISVs),
+      Software as a Service (SaaS), and fintech partners, IBM Cloud for
+      Financial Services offers a new generation of cloud for the enterprise.
+      Financial institutions can now deploy on public cloud to enable innovation
+      and deliver new outstanding customer experiences, while managing stringent
+      industry regulations for sensitive data and complex workloads.
+    questions_and_answers:
+      - answer: |
+          Financial institutions can confidently host their mission-critical applications in
+          the IBM Cloud for Financial Services and transact quickly and efficiently while meeting
+          the strictest finacial industry controls.
+        question: |
+          Can Financial institutions confidently use IBM Cloud for Financial Services
+      - answer: |
+          IBM Cloud for Financial Services has a large partner ecosystem of independent
+          software vendors (ISVs) and Software as a Service (SaaS), and fintech partners
+        question: |
+          Does the IBM Cloud for Financial Services have a ecosystem?
+      - answer: |
+          Financial institutions can now deploy on the IBM Cloud for Financial Services,
+          which is a public cloud to enable innovation
+          and deliver new outstanding customer experiences, while managing stringent
+          industry regulations for sensitive data and complex workloads.
+        question: |
+          Can Financial institutions now deploy to the public cloud?
+  - context: |
+      IBM Cloud Framework for Financial Services is designed to help address
+      the needs of financial services institutions with regulatory compliance,
+      security, and resiliency during the initial deployment phase and with
+      ongoing operations. The framework also helps to simplify the ability of
+      financial institutions to transact with ecosystem partners who deliver software or
+      SaaS applications, and who meet the requirements of the framework.
+    questions_and_answers:
+      - answer: |
+          IBM Cloud Framework for Financial Services is designed to help address
+          the needs of financial services institutions with regulatory compliance,
+          security, and resiliency during the initial deployment phase and with
+          ongoing operations
+        question: |
+          What is the IBM Cloud Framework designed for?
+      - answer: |
+          IBM Cloud Framework for Financial Services is designed to help address
+          the needs of financial services institutions with regulatory compliance,
+          security, and resiliency.
+        question: |
+          What does the IBM Cloud Framework for Financial services do?
+      - answer: |
+          The IBM Cloud Framework for Financial service helps with the
+          initial deployment phase and with ongoing operations.
+        question: Does the IBM Cloud Framework for Financial service help with deployment?
+  - context: |
+      The technology-agnostic control requirements defined in the framework were built by
+      the industry for the industry. The framework contains 565 control requirements
+      that span 7 focus areas and 21 control families. The control requirements were
+      initially based on NIST 800-53 Rev 4 and have been enhanced based on feedback
+      from leading industry partners.
+    questions_and_answers:
+      - answer: |
+          The technology-agnostic control requirements defined in the IBM Cloud Framework
+          were built by the industry for the industry. The control requirements were
+          initially based on NIST 800-53 Rev 4.
+        question: |
+          How did IBM come up with the control requirements for IBM Cloud for Financial Services?
+      - answer: |
+          The IBM Cloud Framework contains 565 control requirements across 21 control families.
+        question: |
+          How many total control requirements make up the IBM Cloud Framework?
+      - answer: |
+          The control requirements in the IBM Control Framework were initially based on NIST 800-53 Rev 4
+        question: |
+          What is the IBM Controls Framework based on?
+  - context: |
+      The IBM Cloud Framework for Financial Services provides three reference architectures that
+      can be used as a basis for meeting the security and regulatory requirements
+      that are defined in the framework.
+    questions_and_answers:
+      - answer: |
+          Yes Reference Architectures are defined for the IBM Cloud for Financial Services.
+        question: |
+          Are there reference architectures defined?
+      - answer: |
+          Reference architectures can be used to meet the controls defined by the IBM Cloud Framework.
+        question: |
+          How do you meet all the controls?
+      - answer: |
+          Automation is provided for deploying the reference architectures to meet the
+          controls for IBM Cloud for Financial Services.
+        question: |
+          Is there automation provided?
+document_outline: "IBM Cloud for Financial Services"
+document:
+  repo: https://github.ibm.com/dinakar/iltaxonomy/
+  commit: f7e74eee161a5ac9f79e715457021953ea9fd307
+  patterns:
+    - fscloudintro.md
