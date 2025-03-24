@@ -40,7 +40,7 @@ _________
     ![alt text](../images/download-notebook.png)
 
 8. Upload the notebook <br>
-    * Select **New asset** in the upper right-hand corner. <br>
+    * Make sure you are on the **Asset** tab, and then select **New asset** in the upper right-hand corner. <br>
 
     ![alt text](../images/new-asset.png)
 
@@ -56,7 +56,7 @@ _________
 
     * Keep the default **runtime** configuration. 
 
-9. Select the notebook you just uploaded to open. 
+9. Select the notebook you just uploaded, it is recommended to open in a new tab. 
 
 10. Select the pencil in the upper-right hand corner of the notebook to open in edit mode. This is so you can execute the notebook.
 
