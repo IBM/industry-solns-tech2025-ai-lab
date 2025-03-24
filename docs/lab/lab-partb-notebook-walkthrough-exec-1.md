@@ -4,8 +4,6 @@ In this section, we will work through exercise 1A and 1B.
 
 First, in Exercise 1A, you'll interact with a granite-3.1-8b-base model that's been set up on a Red Hat Enterprise Linux (RHEL) AI VSI. This provides a stable and secure environment for exploring the capabilities of the LLM. Next, you'll learn how to use external assets to summarize documents, Exercise 1B. 
 
------
-
 ## Exercise 1A
 
 **Cell 1: Install prerequisite libraries (requests, json, getpass)**
@@ -113,7 +111,7 @@ In this cell, we review the contents of the document that was just read in from 
 
 **Cell 7: Chat with the documents**
 
-**Action required**: Review the document's content and ask the AI agent questions about it. <br>
+**Action required**: Review the document's content and ask the AI agent questions about it. You can re-run this cell as many times as you want with different prompts. <br>
 
 **Explanation**: <br>
 This cell allows us to interact with the AI using the external asset (document) we just reviewed. We can ask 
