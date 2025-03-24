@@ -4,6 +4,8 @@ In this section, we will work through exercise 1A and 1B.
 
 First, in Exercise 1A, you'll interact with a granite-3.1-8b-base model that's been set up on a Red Hat Enterprise Linux (RHEL) AI VSI. This provides a stable and secure environment for exploring the capabilities of the LLM. Next, you'll learn how to use external assets to summarize documents, Exercise 1B. 
 
+Open the following link in a new tab to access a pre-run version of the notebook: [ran notebook](https://github.com/IBM/industry-solns-tech2025-ai-lab/blob/main/jupyter-notebook/NB-rhelai-instructlab-chatbot-w-output.ipynb). This will allow you to view an example solution that has already been run and compare your own output with the expected results.
+
 ## Exercise 1A
 
 **Cell 1: Install prerequisite libraries (requests, json, getpass)**
